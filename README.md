@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @iwolkan
-- 👀 I’m interested in interation design
+- 👀 I’m interested in interaction design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (soon) ...
 
